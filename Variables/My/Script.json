@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "namespace": "My",
+  "name": "Script",
+  "description": "",
+  "parser": "",
+  "defaultValue": "",
+  "cacheTime": 0,
+  "cacheLayer": "Global",
+  "src": {
+    "language": "csharp",
+    "additionalAssemblies": "",
+    "debug": false,
+    "type": "razor"
+  }
+}
